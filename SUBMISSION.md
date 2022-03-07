@@ -46,7 +46,9 @@ Your GitHub repository with the readme.md file selected showing the build succes
 
 DOCKER
 
-Your dockerfile. Please provide a link to this file rather than a screen capture. 
+Your dockerfile. Please provide a link to this file rather than a screen capture.
+
+https://github.com/jsciacco/spring-petclinic/blob/master/dockerfile 
 
 Your running docker instance as shown by a ps command.
 ![Docker run](images/docker_run.png)
@@ -58,13 +60,13 @@ Your browser accessing the main page of the website from your local container.
 DOCKER COMPOSE - MYSQL ONLY
 
 The output from the docker-compose up command.
-![Docker compose up command]
+![Docker compose up command](images/compose_up_my_sql_only.png)
 
 Your browser accessing the “Veterinarians” page of the website from your local container when you run the application from the host system.
 ![Docker access vet]
 
 A section of the stack trace generated when you attempt to run the application container that has been updated to use MySQL.
-![Docker section stack]
+![Docker section stack](images/mysql_fail.png)
 
 DOCKER COMPOSE - APP SERVER AND MYSQL
 
@@ -74,7 +76,8 @@ Please provide a link to this file rather than a screen capture.
 Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
 
 The output from the docker-compose up command.
-![Docker compose up App Server]
+![Docker compose up App Server 1](images/compose_up_app_mysql_part1)
+![Docker compose up App Server 2](images/compose_up_app_mysql_part2)
 
 Your browser accessing the “Veterinarians” page of the website from your local container.
-![Docker access vet App]
+![Docker access vet App](vet_mysql_app)
