@@ -80,8 +80,8 @@ Your updated application-mysql.properties file containing the URL change for the
 https://github.com/jsciacco/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
 
 The output from the docker-compose up command.
-![Docker compose up App Server 1](images/compose_up_app_mysql_part1)
-![Docker compose up App Server 2](images/compose_up_app_mysql_part2)
+![Docker compose up App Server 1](images/compose_up_app_mysql_part1.png)
+![Docker compose up App Server 2](images/compose_up_app_mysql_part2.png)
 
 Your browser accessing the “Veterinarians” page of the website from your local container.
-![Docker access vet App](vet_mysql_app)
+![Docker access vet App](vet_mysql_app.png)
