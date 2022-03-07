@@ -84,4 +84,4 @@ The output from the docker-compose up command.
 ![Docker compose up App Server 2](images/compose_up_app_mysql_part2.png)
 
 Your browser accessing the “Veterinarians” page of the website from your local container.
-![Docker access vet App](vet_mysql_app.png)
+![Docker access vet App](images/vet_mysql_app.png)
